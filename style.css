@@ -37,7 +37,7 @@ body.modo-rosa #blocoDeNotas:focus {
 
 /* O contêiner principal que centraliza nosso conteúdo */
 .container {
-    background-color: #ffffff;
+    background-color: #cbddee;
     padding: 30px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
